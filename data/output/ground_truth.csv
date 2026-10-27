@@ -1,0 +1,6 @@
+case_id,issue_type,ground_truth,expected_detection
+ANOM-001,OPTED_OUT_LEAD_CONTACTED,ANOMALY,Block prohibited contact
+ANOM-002,POST_CONVERSION_EVENT_USED,ANOMALY,Exclude post-conversion activity from historical score
+ANOM-003,LEAD_OUTSIDE_TERRITORY,ANOMALY,Flag territory mismatch
+ANOM-004,DUPLICATE_OPPORTUNITY,ANOMALY,Flag duplicate deal association
+ANOM-005,STAGE_HISTORY_GAP,ANOMALY,Flag missing stage transition

@@ -1,0 +1,6 @@
+case_id,issue_type,entity_id,details_json
+ANOM-001,OPTED_OUT_LEAD_CONTACTED,LEAD-2026-000001,"{""attempted_contact"": true, ""channel"": ""SALES_EMAIL"", ""consent_status"": ""OPTED_OUT"", ""contact_id"": ""CON-005300""}"
+ANOM-002,POST_CONVERSION_EVENT_USED,LEAD-2026-000136,"{""activity_date"": ""2026-10-02"", ""conversion_date"": ""2026-10-01"", ""opportunity_id"": ""OPP-2026-000001"", ""score_includes_event"": true}"
+ANOM-003,LEAD_OUTSIDE_TERRITORY,LEAD-2026-000004,"{""company_territory"": ""East"", ""correct_rep_id"": ""REP-0007"", ""incorrect_rep_id"": ""REP-0001"", ""incorrect_rep_territory"": ""North""}"
+ANOM-004,DUPLICATE_OPPORTUNITY,LEAD-2026-000136,"{""duplicate_opportunity_id"": ""OPP-2026-999999"", ""original_opportunity_id"": ""OPP-2026-000001"", ""same_lead_id"": true}"
+ANOM-005,STAGE_HISTORY_GAP,OPP-2026-000001,"{""existing_sequences"": [1, 2, 3], ""missing_sequence"": 2, ""test_sequences"": [1, 3]}"

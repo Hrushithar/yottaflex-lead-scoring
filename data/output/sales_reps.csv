@@ -1,0 +1,13 @@
+sales_rep_id,sales_rep_name,territory,product,active
+REP-0001,Sales Rep 01,North,AI Analytics,True
+REP-0002,Sales Rep 02,North,AI Automation,True
+REP-0003,Sales Rep 03,North,Data Platform,True
+REP-0004,Sales Rep 04,South,AI Analytics,True
+REP-0005,Sales Rep 05,South,AI Automation,True
+REP-0006,Sales Rep 06,South,Data Platform,True
+REP-0007,Sales Rep 07,East,AI Analytics,True
+REP-0008,Sales Rep 08,East,AI Automation,True
+REP-0009,Sales Rep 09,East,Data Platform,True
+REP-0010,Sales Rep 10,West,AI Analytics,True
+REP-0011,Sales Rep 11,West,AI Automation,True
+REP-0012,Sales Rep 12,West,Data Platform,True
